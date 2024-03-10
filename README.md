@@ -8,6 +8,16 @@
 - Minification of styles and scripts on production build
 - Minification of images on production build using `imagemin`
 
+NodeJS and Yarn package manager should installed on your system.
+
+#### Download Nodejs From here [NodeJS](https://nodejs.org/en)
+
+#### For Installing yarn, Run - 
+
+```bash
+npm install -g yarn
+```
+
 ## How to use this.
 - Installation 
 ```bash
